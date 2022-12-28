@@ -2,6 +2,6 @@ This project is an API for integration with another mobile app. It wasn't finish
 
 Technologies:
 
-PHP
-Laravel
-Lumen (micro-framework for APIs)
+ - PHP
+ - Laravel
+ - Lumen (micro-framework for APIs)
